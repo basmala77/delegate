@@ -1,0 +1,7 @@
+D:\ASP\Deleget\Deleget\bin\Debug\Deleget.exe.config
+D:\ASP\Deleget\Deleget\bin\Debug\Deleget.exe
+D:\ASP\Deleget\Deleget\bin\Debug\Deleget.pdb
+D:\ASP\Deleget\Deleget\obj\Debug\Deleget.csproj.AssemblyReference.cache
+D:\ASP\Deleget\Deleget\obj\Debug\Deleget.csproj.CoreCompileInputs.cache
+D:\ASP\Deleget\Deleget\obj\Debug\Deleget.exe
+D:\ASP\Deleget\Deleget\obj\Debug\Deleget.pdb
